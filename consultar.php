@@ -26,7 +26,7 @@ include_once 'header.php';
         <table class="table  table-hover">
             <thead>
                 <tr>
-                    <th scope="col">CODIGO</th>
+                    <th scope="col">CÓDIGO</th>
                     <th scope="col">DESCRIÇÃO</th>
                     <th scope="col">DATA DE INCUSÃO</th>
                     <th scope="col">PREÇO</th>                   
